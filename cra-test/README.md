@@ -22,7 +22,12 @@ React JS Fundamentals Course (2019 Update)
         react 특화 개념
         class 사용 불가 -> className
 - react application은 한 번에 하나의 component만 rendering 할 수 있음 
-
+- Proptypes : 런타임 환경에서 타입 체크
+        ```
+        npm install prop-types
+        ```
+- state : dynamic data
+- class component
 ## 작동순서
 - 빈 HTML 로드
 - react가 component에 작성한 내용을 HTML에 전달
